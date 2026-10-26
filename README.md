@@ -1,4 +1,4 @@
-# RL - K15 Project  - MBPP dataset (full) - Code Direction  
+# RL-K15-Project-MBPP-full
 Карточка проекта К15 (код): MBPP full
 # Карточка проекта К15 · код
 
